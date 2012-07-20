@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<events>
+	
+	<event>
+		<name>Aquo-Thon</name>
+		<location>Whistler, BC</location>
+		<date>05/26/2007</date>
+		<displaydate>May 26th</displaydate>
+		<eventimage>images/photo_events_aquothon.jpg</eventimage>
+		<description>Join us in Whistler as Extreme Mountain bikers take on the hills and curves of British Columbia.</description>
+		<directions>
+			<route from="From San Jose on 101">
+				Travel north on 101 into San Francisco. Take the Bay Bridge - Hwy 80 exit to the right. 
+				Follow Highway 80 to the 7th St. exit (get into the right lane). Take a right onto Bryant 
+				at end of the exit. Go down to 5th St. and take aright. Go down to Townsend and take a right. 
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From San Jose on 280">
+				Travel north on 280 into San Francisco. Take the 6th St. exit. Follow 6th St.
+				off the exit and get into the right lane. Take a right onto Bryant. Go down
+				to 5th St. and take a right. Go down to Townsend and take a right. Go two
+				blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the East Bay on 80">
+				Take Interstate I-80 over the Bay Bridge into San Francisco. Remain in the
+				far left lane, and take the 5th St. exit. Take a sharp left (almost a U turn)
+				onto 5th St. Drive three blocks, and take a right onto Townsend. Go two blocks
+				to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the North Bay on 101">
+				Take 101 over the Golden Gate Bridge to the Lombard St. exit. Follow Lombard
+				to Van Ness. Take a right on Van Ness. Follow Van Ness to Eddy St. and turn
+				left. Follow this across Market St., staying right, where it will turn into
+				5th St. Follow 5th all the way down to Townsend St. Take a right onto Townsend.
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="Public Transit">
+				SF Muni bus #10 passes in front of the Adobe offices en
+				route to the Caltrain depot, the Transbay terminal, and Market St. SF Muni
+				bus #19 crosses Townsend at 8th St. travelling south, and at 7th St. travelling
+				north to Market St. and BART. The Caltrain depot at 4th and Townsend is several
+				long blocks from Adobe. SF Muni bus routes 9, 12, 22, 27, 33, 47, and
+				53 also pass within walking distance. San
+				Francisco Bay Area Transit Information has schedules and maps for San
+				Francisco Muni, Caltrain, and other transit agencies.
+			</route>
+		</directions>
+	</event>
+	
+	<event>
+		<name>Swing Sacramento</name>
+		<location>Sacramento, CA</location>
+		<date>06/10/2007</date>
+		<displaydate>June 10th</displaydate>
+		<eventimage>images/photo_events_swingsacramento.jpg</eventimage>
+		<description>Watch these uber talented couples swing the night away at Sacramento's most famous dance hall.</description>
+		<directions>
+			<route from="Public Transit">
+				SF Muni bus #10 passes in front of the Adobe offices en
+				route to the Caltrain depot, the Transbay terminal, and Market St. SF Muni
+				bus #19 crosses Townsend at 8th St. travelling south, and at 7th St. travelling
+				north to Market St. and BART. The Caltrain depot at 4th and Townsend is several
+				long blocks from Adobe. SF Muni bus routes 9, 12, 22, 27, 33, 47, and
+				53 also pass within walking distance. San Francisco Bay Area Transit Information 
+				has schedules and maps for San Francisco Muni, Caltrain, and other transit agencies.
+			</route>
+			<route from="From San Jose on 101">
+				Travel north on 101 into San Francisco. Take the 6th St. exit. Follow 6th St.
+				off the exit and get into the right lane. Take a right onto Bryant. Go down
+				to 5th St. and take a right. Go down to Townsend and take a right. Go two
+				blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From San Jose on 280">
+				Travel north on 280 into San Francisco. Take the 6th St. exit. Follow 6th St.
+				off the exit and get into the right lane. Take a right onto Bryant. Go down
+				to 5th St. and take a right. Go down to Townsend and take a right. Go two
+				blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the East Bay">
+				Take Interstate I-80 over the Bay Bridge into San Francisco. Remain in the
+				far left lane, and take the 5th St. exit. Take a sharp left (almost a U turn)
+				onto 5th St. Drive three blocks, and take a right onto Townsend. Go two blocks
+				to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the North Bay on 101">
+				Take 101 over the Golden Gate Bridge to the Lombard St. exit. Follow Lombard
+				to Van Ness. Take a right on Van Ness. Follow Van Ness to Eddy St. and turn
+				left. Follow this across Market St., staying right, where it will turn into
+				5th St. Follow 5th all the way down to Townsend St. Take a right onto Townsend.
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+		</directions>
+	</event>
+	
+	<event>
+		<name>Aquo Ultra Marathon</name>
+		<location>Los Angeles, CA</location>
+		<date>06/22/2007</date>
+		<displaydate>June 22nd</displaydate>
+		<eventimage>images/photo_events_ultramarathon.jpg</eventimage>
+		<description>Get ready to admire the amateur runners pace themselves for the annual Aquo Ultra Marathon.</description>
+		<directions>
+			<route from="Public Transit">
+				SF Muni bus #10 passes in front of the Adobe offices en
+				route to the Caltrain depot, the Transbay terminal, and Market St. SF Muni
+				bus #19 crosses Townsend at 8th St. travelling south, and at 7th St. travelling
+				north to Market St. and BART. The Caltrain depot at 4th and Townsend is several
+				long blocks from Adobe. SF Muni bus routes 9, 12, 22, 27, 33, 47, and
+				53 also pass within walking distance. San
+				Francisco Bay Area Transit Information has schedules and maps for San
+				Francisco Muni, Caltrain, and other transit agencies.
+			</route>
+			<route from="From San Jose on 101">
+				Travel north on 101 into San Francisco. Take the Bay Bridge - Hwy 80 exit to the right. 
+				Follow Highway 80 to the 7th St. exit (get into the right lane). Take a right onto Bryant 
+				at end of the exit. Go down to 5th St. and take aright. Go down to Townsend and take a right. 
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From San Jose on 280">
+				Travel north on 280 into San Francisco. Take the 6th St. exit. Follow 6th St.
+				off the exit and get into the right lane. Take a right onto Bryant. Go down
+				to 5th St. and take a right. Go down to Townsend and take a right. Go two
+				blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the East Bay on 80">
+				Take Interstate I-80 over the Bay Bridge into San Francisco. Remain in the
+				far left lane, and take the 5th St. exit. Take a sharp left (almost a U turn)
+				onto 5th St. Drive three blocks, and take a right onto Townsend. Go two blocks
+				to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the North Bay on 101">
+				Take 101 over the Golden Gate Bridge to the Lombard St. exit. Follow Lombard
+				to Van Ness. Take a right on Van Ness. Follow Van Ness to Eddy St. and turn
+				left. Follow this across Market St., staying right, where it will turn into
+				5th St. Follow 5th all the way down to Townsend St. Take a right onto Townsend.
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+		</directions>
+	</event>
+	
+	<event>
+		<name>Aquo Extreme Ski</name>
+		<location>Jackson Hole, WY</location>
+		<date>12/07/2007</date>
+		<displaydate>December 7th</displaydate>
+		<eventimage>images/photo_events_extremeski.jpg</eventimage>
+		<description>Extreme skiing has never been so intense. Join thousands of spectators and watch the industry's most daring extreme skiers take on the mountain.</description>
+		<directions>
+			<route from="From San Jose on 101">
+				Travel north on 101 into San Francisco. Take the Bay Bridge - Hwy 80 exit to the right. 
+				Follow Highway 80 to the 7th St. exit (get into the right lane). Take a right onto Bryant 
+				at end of the exit. Go down to 5th St. and take aright. Go down to Townsend and take a right. 
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From San Jose on 280">
+				Travel north on 280 into San Francisco. Take the 6th St. exit. Follow 6th St.
+				off the exit and get into the right lane. Take a right onto Bryant. Go down
+				to 5th St. and take a right. Go down to Townsend and take a right. Go two
+				blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the East Bay on 80">
+				Take Interstate I-80 over the Bay Bridge into San Francisco. Remain in the
+				far left lane, and take the 5th St. exit. Take a sharp left (almost a U turn)
+				onto 5th St. Drive three blocks, and take a right onto Townsend. Go two blocks
+				to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the North Bay on 101">
+				Take 101 over the Golden Gate Bridge to the Lombard St. exit. Follow Lombard
+				to Van Ness. Take a right on Van Ness. Follow Van Ness to Eddy St. and turn
+				left. Follow this across Market St., staying right, where it will turn into
+				5th St. Follow 5th all the way down to Townsend St. Take a right onto Townsend.
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="Public Transit">
+				SF Muni bus #10 passes in front of the Adobe offices en
+				route to the Caltrain depot, the Transbay terminal, and Market St. SF Muni
+				bus #19 crosses Townsend at 8th St. travelling south, and at 7th St. travelling
+				north to Market St. and BART. The Caltrain depot at 4th and Townsend is several
+				long blocks from Adobe. SF Muni bus routes 9, 12, 22, 27, 33, 47, and
+				53 also pass within walking distance. <a href="http://www.transitinfo.org/" target="blank">San
+				Francisco Bay Area Transit Information </a> has schedules and maps for San
+				Francisco Muni, Caltrain, and other transit agencies.
+			</route>
+		</directions>
+	</event>
+	
+	<event>
+		<name>Aquo Baja 400</name>
+		<location>San Filipe, Baja California</location>
+		<date>10/3/2007</date>
+		<displaydate>October 3rd</displaydate>
+		<eventimage>images/motocross.jpg</eventimage>
+		<description>Come south of the border and see the dirt fly. This Baja 400 promises to be the best yet, with all the top seeds being there.</description>
+		<directions>
+			<route from="From San Jose on 101">
+				Travel north on 101 into San Francisco. Take the Bay Bridge - Hwy 80 exit to the right. 
+				Follow Highway 80 to the 7th St. exit (get into the right lane). Take a right onto Bryant 
+				at end of the exit. Go down to 5th St. and take aright. Go down to Townsend and take a right. 
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From San Jose on 280">
+				Travel north on 280 into San Francisco. Take the 6th St. exit. Follow 6th St.
+				off the exit and get into the right lane. Take a right onto Bryant. Go down
+				to 5th St. and take a right. Go down to Townsend and take a right. Go two
+				blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the East Bay on 80">
+				Take Interstate I-80 over the Bay Bridge into San Francisco. Remain in the
+				far left lane, and take the 5th St. exit. Take a sharp left (almost a U turn)
+				onto 5th St. Drive three blocks, and take a right onto Townsend. Go two blocks
+				to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the North Bay on 101">
+				Take 101 over the Golden Gate Bridge to the Lombard St. exit. Follow Lombard
+				to Van Ness. Take a right on Van Ness. Follow Van Ness to Eddy St. and turn
+				left. Follow this across Market St., staying right, where it will turn into
+				5th St. Follow 5th all the way down to Townsend St. Take a right onto Townsend.
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="Public Transit">
+				SF Muni bus #10 passes in front of the Adobe offices en
+				route to the Caltrain depot, the Transbay terminal, and Market St. SF Muni
+				bus #19 crosses Townsend at 8th St. travelling south, and at 7th St. travelling
+				north to Market St. and BART. The Caltrain depot at 4th and Townsend is several
+				long blocks from Adobe. SF Muni bus routes 9, 12, 22, 27, 33, 47, and
+				53 also pass within walking distance. <a href="http://www.transitinfo.org/" target="blank">San
+				Francisco Bay Area Transit Information </a> has schedules and maps for San
+				Francisco Muni, Caltrain, and other transit agencies.
+			</route>
+		</directions>
+	</event>
+	
+	<event>
+		<name>Big Wave Challenge</name>
+		<location>Mavericks, CA</location>
+		<date>11/08/2007</date>
+		<displaydate>November 8th</displaydate>
+		<eventimage>images/surf.jpg</eventimage>
+		<description>Watch the worlds best big wave surfers take on the legendary break at Mavericks.</description>
+		<directions>
+			<route from="From San Jose on 101">
+				Travel north on 101 into San Francisco. Take the Bay Bridge - Hwy 80 exit to the right. 
+				Follow Highway 80 to the 7th St. exit (get into the right lane). Take a right onto Bryant 
+				at end of the exit. Go down to 5th St. and take aright. Go down to Townsend and take a right. 
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From San Jose on 280">
+				Travel north on 280 into San Francisco. Take the 6th St. exit. Follow 6th St.
+				off the exit and get into the right lane. Take a right onto Bryant. Go down
+				to 5th St. and take a right. Go down to Townsend and take a right. Go two
+				blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the East Bay on 80">
+				Take Interstate I-80 over the Bay Bridge into San Francisco. Remain in the
+				far left lane, and take the 5th St. exit. Take a sharp left (almost a U turn)
+				onto 5th St. Drive three blocks, and take a right onto Townsend. Go two blocks
+				to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the North Bay on 101">
+				Take 101 over the Golden Gate Bridge to the Lombard St. exit. Follow Lombard
+				to Van Ness. Take a right on Van Ness. Follow Van Ness to Eddy St. and turn
+				left. Follow this across Market St., staying right, where it will turn into
+				5th St. Follow 5th all the way down to Townsend St. Take a right onto Townsend.
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="Public Transit">
+				SF Muni bus #10 passes in front of the Adobe offices en
+				route to the Caltrain depot, the Transbay terminal, and Market St. SF Muni
+				bus #19 crosses Townsend at 8th St. travelling south, and at 7th St. travelling
+				north to Market St. and BART. The Caltrain depot at 4th and Townsend is several
+				long blocks from Adobe. SF Muni bus routes 9, 12, 22, 27, 33, 47, and
+				53 also pass within walking distance. <a href="http://www.transitinfo.org/" target="blank">San
+				Francisco Bay Area Transit Information </a> has schedules and maps for San
+				Francisco Muni, Caltrain, and other transit agencies.
+			</route>
+		</directions>
+	</event>
+	
+	<event>
+		<name>Aquo Classic</name>
+		<location>Carlsbad, CA</location>
+		<date>08/15/2007</date>
+		<displaydate>August 15th</displaydate>
+		<eventimage>images/golf.jpg</eventimage>
+		<description>Join us for the 10th annual Aquo Classic at Alvaro Pines in sunny Carlsbad California.</description>
+		<directions>
+			<route from="From San Jose on 101">
+				Travel north on 101 into San Francisco. Take the Bay Bridge - Hwy 80 exit to the right. 
+				Follow Highway 80 to the 7th St. exit (get into the right lane). Take a right onto Bryant 
+				at end of the exit. Go down to 5th St. and take aright. Go down to Townsend and take a right. 
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From San Jose on 280">
+				Travel north on 280 into San Francisco. Take the 6th St. exit. Follow 6th St.
+				off the exit and get into the right lane. Take a right onto Bryant. Go down
+				to 5th St. and take a right. Go down to Townsend and take a right. Go two
+				blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the East Bay on 80">
+				Take Interstate I-80 over the Bay Bridge into San Francisco. Remain in the
+				far left lane, and take the 5th St. exit. Take a sharp left (almost a U turn)
+				onto 5th St. Drive three blocks, and take a right onto Townsend. Go two blocks
+				to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="From the North Bay on 101">
+				Take 101 over the Golden Gate Bridge to the Lombard St. exit. Follow Lombard
+				to Van Ness. Take a right on Van Ness. Follow Van Ness to Eddy St. and turn
+				left. Follow this across Market St., staying right, where it will turn into
+				5th St. Follow 5th all the way down to Townsend St. Take a right onto Townsend.
+				Go two blocks to 7th and Townsend for the Adobe office.
+			</route>
+			<route from="Public Transit">
+				SF Muni bus #10 passes in front of the Adobe offices en
+				route to the Caltrain depot, the Transbay terminal, and Market St. SF Muni
+				bus #19 crosses Townsend at 8th St. travelling south, and at 7th St. travelling
+				north to Market St. and BART. The Caltrain depot at 4th and Townsend is several
+				long blocks from Adobe. SF Muni bus routes 9, 12, 22, 27, 33, 47, and
+				53 also pass within walking distance. <a href="http://www.transitinfo.org/" target="blank">San
+				Francisco Bay Area Transit Information </a> has schedules and maps for San
+				Francisco Muni, Caltrain, and other transit agencies.
+			</route>
+		</directions>
+	</event>
+	
+</events>

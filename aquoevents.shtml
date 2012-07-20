@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="stylesheet" type="text/css" href="events.css">
+<link rel="stylesheet" type="text/css" href="masterdetail.css">
+
+<script type="text/javascript" src="javascript/xpath.js"></script>
+<script type="text/javascript" src="javascript/SpryData.js"></script>
+<script type="text/javascript" src="javascript/SpryDOMUtils.js"></script>
+
+<script type="text/javascript" src="aquoevents.js"></script>
+<title>Aquo Events</title>
+</head>
+<body class="oneColFixCtrHdr">
+<div id="container">
+
+	<!--#include file="eventsbanner.html" -->
+	
+	<div id="mainContent">
+	
+		<div id="masterbox">
+			<table id="events">
+				<tr>
+					<th id="eventheader">Event</th>
+					<th id="locationheader">Location</th>
+				</tr>
+				<tr class="eventrow">
+					<td>
+						<span class="eventname">{name}</span><br />
+						<span class="date">{dsEvents::displaydate}</span>
+					</td>
+					<td><span class="location">{dsEvents::location}</span></td>
+				</tr>
+			</table>
+		</div>
+		
+		<div id="detailbox">
+			<img id="eventbanner" src="{dsEvents::eventimage}"/>
+			<div id="eventinfo">{dsEvents::description}</div>
+		</div>
+		
+		<div style="clear:both"></div>	</div>
+	<!-- end #mainContent -->
+	<div id="border_bottom"></div>
+	<!-- close border_bottom  -->
+	<div id="footer"> <a href="../index.html" class="footer">Home</a> | <a href="../products/index.html" class="footer">Products</a> | <a href="../company/index.html" class="footer">Company</a> | <a href="../events/index.html" class="footer">Events</a> | <a href="#" class="footer">Site Map</a> | <a href="#" class="footer">Terms of Use</a> | <a href="#" class="footer">Privacy Policy</a><br /></div>
+	<p id="disclaimer">Any reference to Aquo Energy Drinks, Ltd., Aquo Life, the Aquo-thon and related logos, products or services is for demonstration purposes only and is not intended to refer to any actual organization, publication or products.</p>
+	<div class="clear">&nbsp;</div>
+	<!-- end #container -->
+</div>
+</body>
+</html>

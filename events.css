@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color:#fdb913;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+}
+.oneColFixCtrHdr #container {
+	width: 780px;  /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+.oneColFixCtrHdr #header {
+	background: #DDDDDD;
+	padding: 0; 
+	background-image:url(images/eventsheader.gif);
+	background-repeat:no-repeat;
+	height:169px;
+	width:780px;
+}
+.oneColFixCtrHdr #header h1 {
+	margin: 0;
+	margin-left:180px;
+	margin-top:80px;
+	padding: 10px 0;
+}
+.oneColFixCtrHdr #mainContent {
+	background: #FFFFFF;
+	width:780px;
+	border-top-color:#FFFFFF;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+.oneColFixCtrHdr #footer {
+	padding: 0 10px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
+}
+.oneColFixCtrHdr #footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	padding: 10px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+}
+h2 {
+	color:#00a0af;
+	font-size:1.2em;
+	margin-top:2px;
+	margin-bottom:4px;
+}
+.event {
+	margin-top:20px;
+}
+.eventimage {
+	float:left;
+	margin-left:10px;
+}
+.eventinfo {
+	height:156px;
+	float:left;
+	width:350px;
+	margin-left:10px;
+}
+.eventinfo p {
+	font-size:.8em;
+}
+.eventinfo a {
+	font-size: .8em;
+}
+
+.date {
+	text-transform:uppercase;
+	font-size:.7em;
+}
+.location {
+	font-size:.9em;
+}
+#border_bottom {
+	background-image:url(images/border_events_bottom.gif);
+	background-repeat:no-repeat;
+	height:20px;
+	width:780px;
+}
+
+div#footer {
+float: left;
+text-align: center;
+width: 780px;
+height: auto;
+color: #ffffff;
+text-decoration: none;
+font-size: 75%;
+margin: 12px 0 5px 0;
+display: inline;
+}
+
+div#footer a {
+color: #ffffff;
+text-decoration: none;
+}
+
+div#footer a:hover {
+color: #ffffff;
+text-decoration: underline;
+}
+
+p#disclaimer {
+float: left;
+text-align:center;
+color: #ffffff;
+font-size: 9px;
+margin-left: 110px;
+margin-right:100px;
+margin-top:0;
+}

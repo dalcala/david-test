@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:spry="http://ns.adobe.com/spry">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+<script src="../../SpryAssets/xpath.js" type="text/javascript"></script>
+<script src="../../SpryAssets/SpryData.js" type="text/javascript"></script>
+<link href="../../SpryAssets/SpryMasterDetail.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+var ds1 = new Spry.Data.XMLDataSet("events-david.xml", "events/event");
+</script>
+</head>
+
+<body>
+<div class="MasterDetail">
+  <div spry:region="ds1" class="MasterContainer">
+    <div class="MasterColumn" spry:repeat="ds1" spry:setrow="ds1" spry:hover="MasterColumnHover" spry:select="MasterColumnSelected">{name}</div>
+  </div>
+  <div spry:detailregion="ds1" class="DetailContainer">
+    <div class="DetailColumn">{location}</div>
+    <div class="DetailColumn">{date}</div>
+    <div class="DetailColumn">{displaydate}</div>
+    <div class="DetailColumn">{eventimage}</div>
+    <div class="DetailColumn">{description}</div>
+    <div class="DetailColumn">{directions}</div>
+  </div>
+  <br style="clear:both" />
+</div>
+</body>
+</html>
